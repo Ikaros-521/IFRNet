@@ -1,0 +1,9 @@
+cupy>=5.0.0
+numpy>=1.15.0
+Pillow>=5.0.0
+# torch
+imageio
+opencv-python
+# onnxruntime-gpu
+# onnx
+# onnxscript
